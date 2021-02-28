@@ -10,7 +10,7 @@ Please [Click Here](https://Interactive-Particles.simer00.repl.co) to see the co
   * Useful
  
 * ## __*Known Issues*__
-  * os.getenv won't work for public.
+  * `os.getenv` won't work for public.
   * Video is low quality
 
 * ## __*FYO*__
@@ -21,4 +21,4 @@ Please [Click Here](https://Interactive-Particles.simer00.repl.co) to see the co
   * Why repl.it?
     * I'm testing it for another project
   * How did you do the banners?
-    * I Used Lolcat and pyfiglet
+    * I Used `Lolcat` and `pyfiglet`
