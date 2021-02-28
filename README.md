@@ -5,16 +5,16 @@
 Please [Click Here](https://Interactive-Particles.simer00.repl.co) to see the code in action!
 
 Youtube Video Downloader
-* Features
+* __*Features*__
   * Simple
   * Aesthetic
   * Useful
  
-* Known Issues
+* __*Known Issues*__
 * os.getenv won't work for public.
 * Video is low quality
 
-* FYO
+* __*FYO*__
   * Where's my video?
     * Main directory under the Code section
   * Why is it so low quality?
