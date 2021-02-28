@@ -1,9 +1,25 @@
-# Disclaimer
-**Unlicensed**
+# Live Example
+![](https://storage.googleapis.com/replit/images/1614208150307_26ee342155d1a9ac0737df369f924a9d.png)
 
-_Copyright (c) 2021 Simer00_
 
-Permission is hereby **_NOT_** granted, free of charge or paid, to any person from obtaining a copy of this software and associated documentation files (the "Software"). This Copyright notice _limits rights to copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software_, unless negotiated and/or exclusively licensed, subject to the following statement:
+Please [Click Here](https://Interactive-Particles.simer00.repl.co) to see the code in action!
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Youtube Video Downloader
+* Features
+  * Simple
+  * Aesthetic
+  * Useful
+ 
+* Known Issues
+* os.getenv won't work for public.
+* Video is low quality
+
+* FYO
+  * Where's my video?
+    * Main directory under the Code section
+  * Why is it so low quality?
+    * idk, it works better on desktop
+  * Why repl.it?
+    * I'm testing it for another project
+  * How did you do the banners?
+    * I Used Lolcat and pyfiglet
