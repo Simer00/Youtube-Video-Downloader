@@ -15,7 +15,7 @@ Please [Click Here](https://repl.it/@Simer00/Youtube-Video-Downloader?v=1) to se
 
 * ## __*FYO*__
   * Where's my video?
-    * Main directory under the Code section
+    * Main directory under the Code section (Replit)
   * Why is it so low quality?
     * idk, it works better on desktop
   * Why repl.it?
