@@ -2,7 +2,7 @@
 ![](https://media.discordapp.net/attachments/654671023677112320/815595224859803648/unknown.png)
 
 
-Please [Click Here](https://repl.it/@Simer00/Youtube-Video-Downloader?v=1) to see the code in action!
+Please [Click Here](https://repl.it/@Simer00/Password-Generator?v=1) to see the code in action!
 
 * ## __*Features*__
   * Simple
@@ -14,10 +14,8 @@ Please [Click Here](https://repl.it/@Simer00/Youtube-Video-Downloader?v=1) to se
   * Video is low quality
 
 * ## __*FYO*__
-  * Where's my video?
-    * Main directory under the Code section (Replit)
-  * Why is it so low quality?
-    * idk, it works better on desktop
+  * Why? Just Why?
+    * Because I was bored and decided to fiddle around with python after 20 years
   * Why repl.it?
     * I'm testing it for another project
   * How did you do the banners?
