@@ -13,7 +13,7 @@ Please [Click Here](https://repl.it/@Simer00/Password-Generator?v=1) to see the 
   * `os.getenv` won't work for public.
   * Video is low quality
 
-* ## __*FYO*__
+* ## __*FYI*__
   * Why? Just Why?
     * Because I was bored and decided to fiddle around with python after 20 years
   * Why repl.it?
